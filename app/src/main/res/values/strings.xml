@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RestClient</string>
+    <string name="salvarButton">Salvar</string>
+    <string name="listarButton">Listar</string>
+    <string name="title_activity_lista_noticias">ListaNoticias</string>
+    <string name="add">add</string>
+    <string name="reset">reset</string>
+    <string name="about">about</string>
+    <string name="exit">exit</string>
+    <string name="btExcluir">Excluir</string>
+</resources>
